@@ -48,4 +48,4 @@ generated/
 # Sentry
 .sentryclirc
 
-.env
+config.bat
