@@ -46,4 +46,4 @@ yarn-error.log*
 # Sentry
 .sentryclirc
 
-.env
+config.bat
